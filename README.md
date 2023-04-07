@@ -71,11 +71,11 @@ Program juga memiliki folder khusus yaitu `image` untuk menyimpan gambar dari ga
 ## Alur Progam
 1. User melakukan login dengan username admin dan password admin, program akan mengarahkan ke halaman home.
 2. Di halaman home ini, user dapat melakukan add, delete, update, dan berpindah panel.
-4. Untuk menambahkan data game, user dapat menekan tombol Add ketika panel menampilkan data game dan program akan menampilkan form untuk data game.
-5. Jika sudah selesai mengisi data member, user dapat menekan tombol add untuk menambahkan data ke database.
-7. Untuk memperbaharui data game, user dapat menekan tombol edit pada card data game yang ingin di update dan program akan menampilkan form data game tersebut.
-8. Untuk menghapus data game, user dapat menekan tombol delete pada card data game yang ingin di delete.
-9. Untuk data developer juga sama seperti game (langkah 2-8), dan ketika nama developer di edit maka otomatis pada data game juga akan terubah nama developernya karena tabel game memiliki foreign key yang terhubung pada tabel developer
+3. Untuk menambahkan data game, user dapat menekan tombol Add ketika panel menampilkan data game dan program akan menampilkan form untuk data game.
+4. Jika sudah selesai mengisi data member, user dapat menekan tombol add untuk menambahkan data ke database.
+5. Untuk memperbaharui data game, user dapat menekan tombol edit pada card data game yang ingin di update dan program akan menampilkan form data game tersebut.
+6. Untuk menghapus data game, user dapat menekan tombol delete pada card data game yang ingin di delete.
+7. Untuk data developer juga sama seperti game (langkah 2-6), dan ketika nama developer di edit maka otomatis pada data game juga akan terubah nama developernya karena tabel game memiliki foreign key yang terhubung pada tabel developer
 
 ## Untuk mencoba login bisa gunakan akun berikut
 - Username = admin
