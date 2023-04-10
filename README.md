@@ -32,6 +32,12 @@ Pada program ini terdapat 7 class dan yang menjadi ***Main Class*** adalah `logi
 
 Program juga memiliki folder khusus yaitu `image` untuk menyimpan gambar dari game
 
+
+## Design ERD
+
+![image](https://user-images.githubusercontent.com/100756191/230837324-8540c835-e2c8-4bf6-9757-80a3b0322ef6.png)
+
+
 ## Design GUI
 - Form Login
 
