@@ -32,6 +32,10 @@ Pada program ini terdapat 7 class dan yang menjadi ***Main Class*** adalah `logi
 
 Program juga memiliki folder khusus yaitu `image` untuk menyimpan gambar dari game
 
+## Design UML
+
+![tp2_desain drawio](https://user-images.githubusercontent.com/100756191/231362615-7bb53afa-2961-4cf0-b473-2cd7e4779ab2.png)
+
 
 ## Design ERD
 
