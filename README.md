@@ -88,5 +88,6 @@ Program juga memiliki folder khusus yaitu `image` untuk menyimpan gambar dari ga
 7. Untuk data developer juga sama seperti game (langkah 2-6), dan ketika nama developer di edit maka otomatis pada data game juga akan terubah nama developernya karena tabel game memiliki foreign key yang terhubung pada tabel developer
 
 ## Untuk mencoba login bisa gunakan akun berikut
+
 - Username = admin
 - password = admin
